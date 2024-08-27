@@ -8,5 +8,5 @@ In this repository you will be turning in your cookie clicker sim created on MIT
 2. Image of your design view, __place on read me__ via screenshot then copy paste
 3. Image of your code, can be done by right clicking and download blocks as image or by screenshot, __place on readme__
 4. Add a quick reflection(2 sentences) about what was difficult __Place on Readme__
-
+Some things that where difficult was trying to figure out how MIT app inventer worked, but after I had figuered out how it worked it became easier and it was fun seeing how the code created a game.
 
